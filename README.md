@@ -61,7 +61,7 @@ ufo-prediction-app/
 ---
 
 ## 🖼️ Demo Screenshot
-![Demo Screenshot](ufo.jpg)
+![Demo Screenshot](ufos.jpg)
 
 ---
 
